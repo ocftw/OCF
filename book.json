@@ -2,6 +2,6 @@
     "plugins" : [ "anchors", "richquotes", "tocstyles"],
     "pluginsConfig":
     {
-      "tocstyles" : ["cjk-ideographic", "decimal", "disc"]
+      "tocstyles" : ["", "cjk-ideographic", "decimal", "disc"]
     }
 }
